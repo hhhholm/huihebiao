@@ -13,6 +13,7 @@ using System.Threading;
 
 namespace 汇合表
 {
+	//烂到极点的代码，只是为了练习一下GitHub
     public partial class Form1 : Form
     {
         public Form1()
